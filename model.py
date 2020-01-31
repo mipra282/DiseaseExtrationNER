@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-### Ref - https://appliedmachinelearning.blog/2019/04/01/training-deep-learning-based-named-entity-recognition-from-scratch-disease-extraction-hackathon/
+
 import pandas as pd
 import numpy as np
 from tqdm import tqdm, trange
